@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Russo+One);
+
+.grid-cell {
+	border: 3px solid black; 
+	height: 180px; 
+	background-color: black; 
+}
+
+.blue-cell {
+	background-color: blue; 
+	color: white; 
+	text-align: center; 
+	font-size: 30px; 
+}
+
+img {
+	height: 100%;  
+	width: 100%; 
+	display: block; 
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Russo One', sans-serif;  
+}
+
+h5 {
+	text-align: center; 
+}
